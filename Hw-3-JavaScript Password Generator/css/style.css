@@ -1,0 +1,37 @@
+.container { display: flex;
+flex-direction: column;}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.line{
+    border: 1.5px solid rgb(175, 172, 172);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: rgb(175, 172, 172);
+}
+
+.text-field{
+    border: 2px solid rgb(175, 172, 172);
+    border-style: dashed;
+    border-radius: 2.4%;
+    height: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.pw{
+    color: #000;
+}
+
+.btn{
+    border-radius: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(194, 23, 23);
+    color: white;
+    align-self: center;
+        width: 30%;
+        height: 35px;
+        margin-top: 30px;
+}
