@@ -41,6 +41,7 @@ user enters yes or no
 user enters yes or no
 
 A password using all of the users conditions is generated and displayed on the page
+</br>
 ![image](https://user-images.githubusercontent.com/82676357/123203347-34b54a80-d484-11eb-8f2e-5c0dff0faad2.png)
 
 
